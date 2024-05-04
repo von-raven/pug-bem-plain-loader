@@ -24,10 +24,8 @@
     "pug": "^3.0.2"
   },
   "dependencies": {
+    "pug": "^3.0.2",
     "pug-bem": "^1.2.0",
     "loader-utils": "^1.1.0"
   },
-  "devDependencies": {
-    "pug": "^3.0.2"
-  }
 }
